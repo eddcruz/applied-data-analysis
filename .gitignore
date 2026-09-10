@@ -216,3 +216,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+01-traffic-accidents/data/conjunto_de_datos/*.csv
